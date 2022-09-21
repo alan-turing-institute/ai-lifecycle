@@ -62,7 +62,7 @@ plugins:
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - bibtex:
-      bib_file: "https://api.zotero.org/groups/4562335/items?format=bibtex"
+      bib_file: docs/assets/bibliographies/OAI_Project.bib
       bib_by_default: true
   - glightbox:
        touchNavigation: true
